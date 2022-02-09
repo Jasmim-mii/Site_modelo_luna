@@ -14,7 +14,7 @@
 
 ### Gif do site:
 <p align="center"> 
-    <img src="https://github.com/Jasmim-mii/site_anna_bella/blob/main/imgs/video.gif" width="700">           
+    <img src="https://github.com/Jasmim-mii/Site_Anna_Bella_/blob/main/imgs/video.gif" width="700">           
 </p>                 
 
 ### Sobre o curso:
