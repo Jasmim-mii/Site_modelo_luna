@@ -13,16 +13,17 @@ a {
 h1 {
     color:828271;
     font-size: 1.2em;
+    text-align: center;
 
 }
 .img-campanha {
     border: 10px solid #c3c3ae; 
+    
 }
 #principal {
     background-color:#f1f1e3;
-    width: 900px; 
-    text-align: center; 
-	padding: 25px;
+    width: 900px;    
+	padding: 10px;
 	margin: 10px auto;     
 }
 #menu {
@@ -31,11 +32,10 @@ h1 {
 }
 #conteudo {
     background: #e8e8d9;
-    padding: 10px;
+    padding: 15px;
        
 }
-
-/* #rodape {
-    
-} */
+#rodape {
+    text-align: center;
+}
 
